@@ -16,7 +16,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid rgb(68, 66, 66);
+    border: 1px solid rgb(12, 11, 11);
 }
 #adjust{
    display: flex;
@@ -26,9 +26,9 @@
    height: 30px;
    width: 80px;
    border-radius: 3px;
-   border: solid black;
+   border: solid rgb(177, 166, 166);
    background-color: rgb(43, 124, 204);
-   margin-left: 180px;
+   margin-left: 680px;
    margin-top: 100px;
 }
 #adjust:hover{
@@ -37,5 +37,5 @@
     background-color: red;
 }
 .cells.color{
-    background-color: rgb(70, 68, 68);
+    background-color: rgb(116, 114, 114);
 }
