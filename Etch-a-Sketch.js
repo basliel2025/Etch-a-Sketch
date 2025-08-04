@@ -1,5 +1,5 @@
 const container = document.querySelector('.container');
-const size = 16;
+const size = 20;
 const containerWidth = container.clientWidth;
 for(let row=0; row<size;row++){
     for(let column=0;column<size;column++){

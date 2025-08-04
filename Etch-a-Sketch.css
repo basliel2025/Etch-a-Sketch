@@ -16,7 +16,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid rgb(12, 11, 11);
+    border: 2px solid rgb(12, 11, 11);
+    box-sizing: border-box;
 }
 #adjust{
    display: flex;
